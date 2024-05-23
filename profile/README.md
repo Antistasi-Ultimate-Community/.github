@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>AUC Client Mod</h1>
+  <h1>Antistasi Ultimate Community</h1>
   <p>
-    <i>Files for the AUC server, bringing new content for our players.</i>
+    <i>Repos for AUC related projects, bringing new content for our players.</i>
   </p>
   
   <p float="left">
